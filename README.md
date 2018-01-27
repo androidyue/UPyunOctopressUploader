@@ -39,3 +39,5 @@ ruby push2QUpyun.rb dir_to_sync bucket
   * 已存在的文件，如果lastModified没有变化，不上传
   * 已存在的文件，如果lastModified有变化，检测文件内容md5，如果和上一次不同，则上传，否则不上传。
 
+## 注册奖励
+通过我的邀请链接注册UP云，注册并完成认证，赠送 61 元免费代金券。首次充值后，奖励充值金额 10% 代金券，我的邀请链接是 [https://console.upyun.com/register/?invite=Hkw6NeiBZ](https://console.upyun.com/register/?invite=Hkw6NeiBZ)
